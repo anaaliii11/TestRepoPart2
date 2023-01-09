@@ -5,3 +5,4 @@ test-restore
 test-restore2
 test5
 test-fetch
+test-merge-abort
