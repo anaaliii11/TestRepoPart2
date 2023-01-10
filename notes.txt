@@ -6,3 +6,4 @@ test-restore2
 test5
 test-fetch
 test-merge
+test-reset
