@@ -8,3 +8,4 @@ test-fetch
 test-merge
 test-reset
 test-revert
+test-add-new-feature
